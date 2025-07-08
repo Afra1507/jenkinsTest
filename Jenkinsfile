@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'afral507/jenkins-image'
+        IMAGE_NAME = 'afra1507/jenkins-image'
         CONTAINER_NAME = 'jenkins-docker-app'
     }
 
